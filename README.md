@@ -16,16 +16,16 @@ Here’s what I wield to tame complex problems and ship awesome software:
 
 ---
 
-## 🎓 Educational Backgroound  
-- **Degree**: Bachelor’s in Computer Engineering, University of Mumbai  
-- **CGPA**: 9.6/10 
+## 🎓 Educational Background  
+- **Degree**: Bachelor’s in Computer Engineering, University of Mumbai 🏛️  
+  - **CGPA**: 9.6/10 📚  
 
-- **XII**: Navneet jr College of Arts,Sci & Comm
-- **Grade**: 79%
+- **XII**: Navneet Jr. College of Arts, Science & Commerce 📘  
+  - **Grade**: 79%  
 
-- **X**: MMHS
-- **Grade**: 93.2%
-
+- **X**: MMHS 🏫  
+  - **Grade**: 93.2% 🌟  
+  
 ---
 
 ## 📬 Let’s Connect!  
