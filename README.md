@@ -5,7 +5,7 @@ Welcome to my GitHub universe! 🎉 I’m a Software Engineer with a knack for c
 
 ## 🛠️ My Tech Arsenal  
 Here’s what I wield to tame complex problems and ship awesome software:  
-- **Languages**: Java, C#, Python, C++, C,Js
+- **Languages**: Java, C#, Python, C++, C, Js
 - **Backend**: Spring Boot, ASP.NET Core, Flask, Django 
 - **Frontend**: Html, Css, Js, Angular  
 - **DataBase**: PostgreSQL, MySQL, MS SQL Server  
@@ -18,13 +18,13 @@ Here’s what I wield to tame complex problems and ship awesome software:
 
 ## 🎓 Educational Background  
 - **Degree**: Bachelor’s in Computer Engineering, University of Mumbai 🏛️  
-  - **CGPA**: 9.6/10 📚  
+  - **CGPA**: 9.6/10 
 
 - **XII**: Navneet Jr. College of Arts, Science & Commerce 📘  
   - **Grade**: 79%  
 
 - **X**: MMHS 🏫  
-  - **Grade**: 93.2% 🌟  
+  - **Grade**: 93.2%  
   
 ---
 
